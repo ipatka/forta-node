@@ -114,7 +114,6 @@ x-forta-config:
 
   scan:
     jsonRpc:
-      # url: https://eth-mainnet.alchemyapi.io/v2/EY6V18pyHpLFp4QHTF4Mv88NFaPsw83U
       url: http://anvil:9545
 
   localMode:
